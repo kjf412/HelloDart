@@ -2,7 +2,7 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "args",
+      "name": "args", 
       "rootUri": "file:///C:/Users/26530/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/args-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
@@ -113,10 +113,10 @@
       "name": "HelloDart",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.13"
     }
   ],
-  "generated": "2022-06-24T13:57:54.016379Z",
+  "generated": "2022-06-29T14:47:49.690698Z",
   "generator": "pub",
   "generatorVersion": "2.17.3"
 }

@@ -1,5 +1,6 @@
 import 'dart:math';
 
+//
 void num_String() {
   print('******数字、集合、字符串等代码调试******');
   print('assert()语句错误时 运行时不会报错 但是在debug中会');
